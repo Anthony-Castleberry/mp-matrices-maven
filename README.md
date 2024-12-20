@@ -4,15 +4,14 @@ A project for CSC-207.
 
 Authors:
 
-* Your Name Here
+* Anthony Castleberry
 * Samuel A. Rebelsky (starter code)
 
 ---
 
 Overview:
 
-PLEASE PROVIDE AN OVERVIEW OF THE PROJECT FOR THOSE WHO MIGHT NOT
-OTHERWISE UNDERSTAND IT.
+using the tools in MatrixV0, create and modify a 2d array, which in this case is an array of arrays.
 
 ---
 
@@ -20,6 +19,6 @@ Citations:
 
 ---
 
-This code may be found at <https://github.com/USERID/mp-matrices-maven>. 
+This code may be found at <https://github.com/Anthony-Castleberry/mp-matrices-maven>. 
 
 The original code may be found at <https://github.com/Grinnell-CSC207/mp-matrices-maven>.
